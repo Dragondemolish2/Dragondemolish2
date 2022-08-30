@@ -2,10 +2,10 @@
 
 Hello There 👋
 
-Hi im Tjaart a junior programmer who has start an internship at Northroom Technologies. 
+Hi im Tjaart a junior programmer who is a intern at Northroom Technologies. 
 
 
 I have not been coding for very long and im still very new to how all this works but luckily google has a lot of great answers so thank you to all who have helped me. 
 
 
-I am currently working with typescript,React,Ionic, and React Native.
+I am currently working with typescript,React,and React Native.
