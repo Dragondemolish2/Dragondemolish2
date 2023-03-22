@@ -1,4 +1,5 @@
-![tjaart](https://user-images.githubusercontent.com/98310738/152962278-821cdc0a-8f36-41f2-9f2b-8351268903ce.png)
+![Tjaart](https://user-images.githubusercontent.com/98310738/226824096-8cf67241-fb21-403a-93a1-3e1ad7794ffe.png)
+
 
 Hello There 👋
 
